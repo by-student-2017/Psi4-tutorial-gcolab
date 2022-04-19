@@ -16,3 +16,6 @@
 
 
 [2] http://pc-chem-basics.blog.jp/archives/28148054.html (Japanese)
+
+
+[3] dimer: https://github.com/nmardirossian/PySCF_Tutorial/tree/master/data
