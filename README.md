@@ -5,7 +5,7 @@
 - The environment of "google colab." Will be changed immediately. Even settings that have been successfully installed in the past often do not work now.
 
 
-##Note
+## Note
 - Reference [1] is very good. References [1,2] are written in Japanese. The following shows the results of my tests on "google colab." Using reference [1,2]. 
 
 
