@@ -6,7 +6,7 @@
 
 
 ## Note
-- Reference [1] is very good. References [1,2] are written in Japanese. The following shows the results of my tests on "google colab." Using reference [1,2]. 
+- Reference [1] is very good. References [1,2] are written in Japanese. The following shows the results of my tests on "google colab." using reference [1,2]. 
 
 
 ## References
