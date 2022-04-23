@@ -19,3 +19,9 @@
 
 
 [3] dimer: https://github.com/nmardirossian/PySCF_Tutorial/tree/master/data
+
+
+[4] https://adreasnow.com/Cheat%20Sheets/Python/Psi4Interactive/#viewing-psi4-molecules-py3dmol
+
+
+[5] https://datadriven-rnd.com/2021-01-10-145659/
